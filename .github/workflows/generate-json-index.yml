@@ -1,7 +1,6 @@
 name: 生成 插件市场所需 索引
 
 on:
-workflow_dispatch
   push:
     paths:
       - 'Adapter/**'
